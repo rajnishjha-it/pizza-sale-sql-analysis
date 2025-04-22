@@ -33,7 +33,7 @@ The dataset simulates a relational database through four CSV files:
 
 - *SQL (MySQL)* – Querying and joining relational data
 - *DB Browser for MySQL Workbench 8.0 CE* – Executing SQL queries and exporting results
-- *Excel * – Visualization and charting
+- *Excel* – Visualization and charting
 
 ---
 
