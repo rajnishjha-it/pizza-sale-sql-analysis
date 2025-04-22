@@ -59,7 +59,7 @@ The dataset simulates a relational database through four CSV files:
 ## 🙋‍♂ About Me
 
 I'm *Rajnish Kumar Jha*, an MCA graduate with a passion for data analytics and business intelligence. I love using SQL and Excel to turn raw data into meaningful stories and strategies.  
-I have completed projects in churn prediction, fraud detection, and crime dashboarding using tools like Python, Power BI, and Excel.
+I’ve completed projects in coffee sales analysis, churn prediction, and crime data visualization using tools like Python, Excel, and Power BI. I’m always eager to learn, explore new tools, and solve real-world business problems through data.
 
 ---
 
